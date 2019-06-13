@@ -29,6 +29,12 @@ namespace QuatroOperacoes
             multiplicar = numero1 * numero2;
             resto = numero1 % numero2; 
 
+            Console.WriteLine( "A soma é "+soma);
+            Console.WriteLine("A subtração é "+subtrair);
+            Console.WriteLine("A divisão é "+dividir);
+            Console.WriteLine("A multiplicação é "+multiplicar);
+            Console.WriteLine("O resto é "+resto);
+
     
         }
     }
